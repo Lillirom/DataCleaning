@@ -4,7 +4,7 @@ library(data.table)
 
 
 ### Set Working Directory ### 
-setwd("~/Coursera/DataScience/03_GettingandCleaningData/UCI HAR Dataset")
+
 
 ################ Read data and prepare column names ###############
 
